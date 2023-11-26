@@ -163,10 +163,18 @@ main {
     margin-bottom: 15px;
     font-size: 1.8rem;
     font-weight: bold;
-    line-height: 2.3rem;
-    color: var(--bitcoin-orange);
+    line-height: 2.3rem;    
     text-align: left;
 }
+
+.main-currency-table .currency-table--title {
+    color: var(--bitcoin-orange);
+}
+
+.main-commissions-table .commissions-table--title {
+    color: var(--secondary-blue);
+}
+
 
 .currency-table--container,
 .commissions-table--container {
@@ -181,6 +189,10 @@ main {
     height: 250px;
     margin: 0 auto;
     font-family: "Inter", sans-serif;
+}
+
+.main-commissions-table {
+    display: none;
 }
 
 .main-currency-table .arrow-right,
@@ -311,5 +323,6 @@ main {
 .currency-table--date p {
     font-size: 1.2rem;
     line-height: 1.5rem;
+    font-weight: 300;
     color: var(--warm-black);
 }
