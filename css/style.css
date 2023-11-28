@@ -100,7 +100,7 @@ header img {
     width: 13px;
     height: 8px;
     margin-left: 10px;
-    background-image: url('/assets/icons/down-arrow.svg');    
+    background-image: url('../assets/icons/down-arrow.svg');    
 }
 
 main {
@@ -129,7 +129,7 @@ main {
     height: 200px;
     margin: 0 auto;
     margin-bottom: 50px;
-    background-image: url('/assets/img/Bitcoin.svg');
+    background-image: url('../assets/img/Bitcoin.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -206,11 +206,11 @@ main {
     background-repeat: no-repeat;   
 }
 .main-currency-table .arrow-right {
-    background-image: url('/assets/icons/right-arrow.svg');
+    background-image: url('../assets/icons/right-arrow.svg');
 }
 
 .main-commissions-table .arrow-left {
-    background-image: url('/assets/icons/left-arrow.svg');
+    background-image: url('../assets/icons/left-arrow.svg');
 }
 
 .currency-table--container .arrow-right,
@@ -288,29 +288,29 @@ main {
 }
 
 .currency-table--container .down {
-    background-image: url('/assets/icons/trending-down.svg');
+    background-image: url('../assets/icons/trending-down.svg');
     
 }
 
 .currency-table--container .up {
-    background-image: url('/assets/icons/trending-up.svg');    
+    background-image: url('../assets/icons/trending-up.svg');    
 }
 
 
 .currency-table--container .bitcoin {
-    background-image: url('/assets/icons/bitcoin-icon.svg');    
+    background-image: url('../assets/icons/bitcoin-icon.svg');    
 }
 
 .currency-table--container .ethereum {
-    background-image: url('/assets/icons/ethereum-icon.svg');    
+    background-image: url('../assets/icons/ethereum-icon.svg');    
 }
 
 .currency-table--container .ripple {
-    background-image: url('/assets/icons/ripple-icon.svg');    
+    background-image: url('../assets/icons/ripple-icon.svg');    
 }
 
 .currency-table--container .stellar {
-    background-image: url('/assets/icons/stellar-icon.svg');    
+    background-image: url('../assets/icons/stellar-icon.svg');    
 }
 
 .currency-table--date {
@@ -399,17 +399,17 @@ main {
 }
 
 .product-detail--card .clock{
-    background-image: url('/assets/icons/clock.svg');
+    background-image: url('../assets/icons/clock.svg');
 }
 
 .product-detail--card .eye {
-    background-image: url('/assets/icons/eye.svg');
+    background-image: url('../assets/icons/eye.svg');
 }
 .product-detail--card .dollar-sign {
-    background-image: url('/assets/icons/dollar-sign.svg');
+    background-image: url('../assets/icons/dollar-sign.svg');
 }
 .product-detail--card .check-circle {
-    background-image: url('/assets/icons/check-circle.svg');
+    background-image: url('../assets/icons/check-circle.svg');
 }
 
 .product--card-title {
@@ -431,7 +431,7 @@ main {
     width: 100%;
     min-width: 320px;
     height: 50vh;
-    background-image: url('/assets/img/bitcoinbaby2x.jpg');
+    background-image: url('../assets/img/bitcoinbaby2x.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -562,7 +562,7 @@ main {
     display: inline-block;
     width: 20px;
     height: 20px;
-    background-image: url('/assets/icons/orange-right-arrow.svg');
+    background-image: url('../assets/icons/orange-right-arrow.svg');
     vertical-align: text-bottom;
 }
 
